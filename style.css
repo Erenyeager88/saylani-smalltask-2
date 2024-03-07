@@ -1,0 +1,238 @@
+body {
+    background-color: whitesmoke;
+}
+
+.parent-container {
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+    margin-left: 207px;
+    margin-top: 50px;
+    border-radius: 15px;
+    display: flex;
+    width: 60%;
+    height: 102vh;
+    background-color: white;
+}
+
+.child_2{
+    width: 50%;
+}
+
+.child_1 {
+    width: 50%;
+}
+
+.user-feild {
+    margin-left: 30px;
+    width: 400px;
+    height: 420px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+.email-address {
+    padding-top: 60px;
+    margin-left: 20px;
+}
+
+#address {
+    font-size: 15px;
+    padding-left: 50px;
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+}
+
+.email-feild {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.msg-icon {
+    padding-left: 10px;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.4);
+    font-weight: lighter;
+}
+
+#email {
+    width: 300px;
+    font-size: 16px;
+    height: 50px;
+    outline: 0;
+    border: 0;
+    padding-left: 30px;
+}
+
+.image {
+    width: 100%;
+    margin-top: 200px;
+    margin-left: 5px;
+}
+
+.image_2 {
+    width: 30%;
+    margin-top: 20px;
+}
+
+p {
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.password-feild {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+#password-heading {
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+}
+
+.password-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.lock-icon {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#password {
+    width: 300px;
+    font-size: 16px;
+    height: 50px;
+    outline: 0;
+    border: 0;
+    padding-left: 30px;
+}
+
+.password_feild {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+#password_heading {
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+}
+
+.password_box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+.lock_icon {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#Password {
+    width: 300px;
+    font-size: 16px;
+    height: 50px;
+    outline: 0;
+    border: 0;
+    padding-left: 30px;
+}
+
+.telephone {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+#contact-heading {
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+}
+
+.contact-feild {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border-bottom: 3px solid #3563E9; */
+}
+
+.telephone-icon {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#contact {
+    width: 300px;
+    font-size: 16px;
+    height: 50px;
+    outline: 0;
+    border: 0;
+    padding-left: 30px;
+}
+
+.btn-div {
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+    gap: 10px;
+}
+
+.sign-in {
+    color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    border: 0;
+    border-radius: 5px;
+    background-color: #3563e9;
+    width: 100px;
+    height: 35px;
+}
+
+.login {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    border: 0;
+    border-radius: 5px;
+    background: whitesmoke;
+    width: 100px;
+    height: 35px;
+}
+
+.small-heading {
+    color: rgba(0, 0, 0, 0.4);
+    padding-left: 20px;
+}
+
+.icons-div {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.google-img {
+    width: 10%;
+    background-color: white;
+    border-radius: 50%;
+ 
+}
+
+.fb-logo {
+    width: 12%;
+    background-color: white;
+    border-radius: 50%;
+
+}
+
+.twitter{
+    width: 8%;
+    background-color: white;
+    border-radius: 50%;
+  
+}
